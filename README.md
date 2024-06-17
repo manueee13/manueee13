@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🌸✨ ૮₍´˶• . • ⑅ ₎ა Hi there, I'm manueee! (˶˃ ᵕ ˂˶) ✨🌸
 
-<!--
-**manueee13/manueee13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/manueee13?label=Follow&style=social)](https://github.com/manueee13)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! (∩˃ω˂∩)
+I'm passionate about technology, CTFs, and Open Source Intelligence (OSINT). I'm part of the awesome [MNTCRL](https://mntcrl.it/) team! (๑˃̵ᴗ˂̵)و ♡ 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My Expertise
+
+- **🔐 Capture The Flag (CTF):** Specialized in Web and OSINT challenges.
+- **🌐 Web Security:** Deep understanding of web vulnerabilities and exploitation.
+- **🔍 OSINT:** Skilled in gathering and analyzing open source information. (I can doxx you in less than 10 minutes (˵ •̀ ᴗ - ˵ ) ✧ )
+
+## 🌱 Currently Learning
+
+- 🧩 Pwn (exploitation)
+- 🔄 Reverse engineering
+
+## 📂 Featured Projects
+🛠️ Under Construction 🛠️
+
+## 👯‍♂️ Team MNTCRL
+
+Proud member of [MNTCRL](https://mntcrl.it/)! We compete in CTFs and love exploring the world of cybersecurity. 🚀
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, Java, C/C++, C#, JavaScrip
+- **Tools:** Burp Suite, Wireshark, Maltego, Ghidra
+
+## 📈 GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)](https://github.com/your_username)
