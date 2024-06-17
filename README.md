@@ -30,4 +30,4 @@ Proud member of [MNTCRL](https://mntcrl.it/)! We compete in CTFs and love explor
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)](https://github.com/your_username)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=manueee13&show_icons=true&theme=radical)](https://github.com/manueee13)
