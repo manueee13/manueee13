@@ -19,7 +19,7 @@ I'm passionate about technology, CTFs, and Open Source Intelligence (OSINT). I'm
 ## 📂 Featured Projects
 🛠️ Under Construction 🛠️
 
-## 👯‍♂️ Team MNTCRL
+## 🎲 Team MNTCRL
 
 Proud member of [MNTCRL](https://mntcrl.it/)! We compete in CTFs and love exploring the world of cybersecurity. 🚀
 
