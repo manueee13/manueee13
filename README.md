@@ -25,7 +25,7 @@ Proud member of [MNTCRL](https://mntcrl.it/)! We compete in CTFs and love explor
 
 ## 🛠️ Technical Skills
 
-- **Languages:** **Python**, Java, C/C++, C#, JavaScript
+- **Languages:** Python, Java, C/C++, C#, JavaScript
 - **Tools:** Burp Suite, Wireshark, Maltego, Ghidra, GBD
 
 ## 📈 GitHub Stats
