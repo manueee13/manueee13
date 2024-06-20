@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! (∩˃ω˂∩)
 I'm passionate about technology, CTFs, and Open Source Intelligence (OSINT). I'm part of the awesome [MNTCRL](https://mntcrl.it/) team! (๑˃̵ᴗ˂̵)و ♡ 🌟
 
-## 🎯 My Expertise
+## 🎯 My Expertise 
 
 - **🔐 Capture The Flag (CTF):** Specialized in Web and OSINT challenges.
 - **🌐 Web Security:** Deep understanding of web vulnerabilities and exploitation.
@@ -13,7 +13,7 @@ I'm passionate about technology, CTFs, and Open Source Intelligence (OSINT). I'm
 
 ## 🌱 Currently Learning
 
-- 🧩 Pwn (exploitation)
+- 🧩 Pwn
 - 🔄 Reverse engineering
 
 ## 📂 Featured Projects
@@ -25,8 +25,8 @@ Proud member of [MNTCRL](https://mntcrl.it/)! We compete in CTFs and love explor
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, Java, C/C++, C#, JavaScrip
-- **Tools:** Burp Suite, Wireshark, Maltego, Ghidra
+- **Languages:** **Python**, Java, C/C++, C#, JavaScript
+- **Tools:** Burp Suite, Wireshark, Maltego, Ghidra, GBD
 
 ## 📈 GitHub Stats
 
