@@ -23,11 +23,6 @@ I'm passionate about technology, CTFs, and Open Source Intelligence (OSINT). I'm
 
 Proud member of [MNTCRL](https://mntcrl.it/)! We compete in CTFs and love exploring the world of cybersecurity. 🚀
 
-## 🛠️ Technical Skills
-
-- **Languages:** Python, Java, C/C++, C#, JavaScript
-- **Tools:** Burp Suite, Wireshark, Maltego, Ghidra, GBD
-
 ## 📈 GitHub Stats
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=manueee13&show_icons=true&theme=radical)](https://github.com/manueee13)
