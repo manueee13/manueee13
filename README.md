@@ -10,6 +10,7 @@ I'm passionate about technology, CTFs, and Open Source Intelligence (OSINT). I'm
 - **🔐 Capture The Flag (CTF):** Specialized in Web and OSINT challenges.
 - **🌐 Web Security:** Deep understanding of web vulnerabilities and exploitation.
 - **🔍 OSINT:** Skilled in gathering and analyzing open source information. (I can doxx you in less than 10 minutes (˵ •̀ ᴗ - ˵ ) ✧ )
+- **🔄 Reverse engineering**
 
 ## 🌱 Currently Learning
 
